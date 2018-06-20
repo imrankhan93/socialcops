@@ -1,7 +1,7 @@
-#To understand trends in APMC, price &amp; quantity arrival data for different commodities in Maharashtra.
-##A case study for socialcops
+# To understand trends in APMC, price &amp; quantity arrival data for different commodities in Maharashtra.
+## A case study for socialcops
 
-###Objective:
+### Objective:
 
 1. Test and filter outliers. 
 2. Understand price fluctuations accounting the seasonal effect
@@ -10,10 +10,10 @@
 3. Compare prices in APMC/Mandi with MSP(Minimum Support Price)- raw and deseasonalised
 4. Flag set of APMC/mandis and commodities with highest price fluctuation across different commodities in each relevant season, and year.
 
-###Data: 
+### Data: 
 https://drive.google.com/drive/u/0/folders/0B-zoMsiXW40gZlNtNnlINEszRTg
 
-###Variable description: 
+### Variable description: 
 
 * msprice- Minimum Support Price
 * arrivals_in_qtl- Quantity arrival in market (in quintal)
@@ -22,7 +22,7 @@ https://drive.google.com/drive/u/0/folders/0B-zoMsiXW40gZlNtNnlINEszRTg
 * modal_price- Mode (Average) price charged per quintal
 
 
-###Files description
+### Files description
 
 * boxplot2014.jpeg - Boxplot showing outliers for year 2014
 * boxplot2015.jpeg - Boxplot showing outliers for year 2015.
